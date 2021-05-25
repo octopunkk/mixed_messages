@@ -3,23 +3,23 @@ var fs = require("fs");
 
 let randomAction = () => {
     var text = fs.readFileSync("./actions.txt").toString('utf-8');
-    var textByLine = text.split(";");
+    var textByLine = text.split("\n");
     let num = textByLine.length;
     let randNum = Math.floor(Math.random()*num);
     return textByLine[randNum];
 };
 let randomCharacter = () => {
     var text = fs.readFileSync("./characters.txt").toString('utf-8');
-    var textByLine = text.split(";");
+    var textByLine = text.split("\n");
     let num = textByLine.length;
     let randNum = Math.floor(Math.random()*num);
     return textByLine[randNum];
 };
 let randomPlace = () => {
     var text = fs.readFileSync("./places.txt").toString('utf-8');
-    var textByLine = text.split(";");
+    var textByLine = text.split("\n");
     let num = textByLine.length;
     let randNum = Math.floor(Math.random()*num);
     return textByLine[randNum];
 };
-console.log(`Today, you will ${randomAction()} with ${randomCharacter()} in ${randomPlace()}.`)
+console.log(`Today, you will ${randomAction()} with ${randomCharacter()} in ${randomPlace()}.`);

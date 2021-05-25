@@ -1,1 +1,19 @@
-California;Ameterdam;Disneyland;Space;Lyon;a McDonald's;the White House;the TARDIS;school;a pub;a skatepark;a beach;a Starbucks;Paris;ur garage;a parking lot;a cave;an underwater base;a waterpark
+California
+Ameterdam
+Disneyland
+Space
+Lyon
+a McDonald's
+the White House
+the TARDIS
+school
+a pub
+a skatepark
+a beach
+a Starbucks
+Paris
+ur garage
+a parking lot
+a cave
+an underwater base
+a waterpark

@@ -1,1 +1,17 @@
-a duck;a stoner;a nerd;Obama;Waluigi;Yoshi;the Doctor;Sherlock;Tony Hawk;a random child;Jared, 19;Jack Black;a ghost;Flash McQueen;a cop;Andy Samberg;a drag queen
+a duck
+a stoner
+a nerd
+Obama
+Waluigi
+Yoshi
+the Doctor
+Sherlock
+Tony Hawk
+a random child
+Jared, 19
+Jack Black
+a ghost
+Flash McQueen
+a cop
+Andy Samberg
+a drag queen
